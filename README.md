@@ -11,7 +11,7 @@ Functionalities:
 
 <img src="/screenshots/memes.png" width="600" />
 
-<img src="/screenshots/first10images" width="600" />
+<img src="/screenshots/first10images.png" width="600" />
 
 In the project directory, you can run:
 
