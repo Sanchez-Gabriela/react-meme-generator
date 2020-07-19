@@ -13,7 +13,7 @@ Functionalities:
 
 <img src="/screenshots/first10images.png" width="600" />
 
-In the project directory, you can run:
+
 
 ### `yarn start`
 
