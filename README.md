@@ -1,7 +1,7 @@
 
 # Meme generator
 
-It is web app builded with React that allows users to generate and download memes using the memegen.link website.
+It is web app built with React that allows users to generate and download memes using the memegen.link website.
 
 Functionalities:
 
